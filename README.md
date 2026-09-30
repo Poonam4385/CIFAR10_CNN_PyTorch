@@ -45,10 +45,4 @@ Two CNN models were developed:
 - Data augmentation
 - Batch Normalization and Dropout
 - Model evaluation
-- Saving and loading PyTorch models
-
-  ## Author
-
-Poonam Sunil Lonkar
-M.Sc. Data Science & Analytics
-GitHub: Poonam4385
+- Saving and loading PyTorch model
